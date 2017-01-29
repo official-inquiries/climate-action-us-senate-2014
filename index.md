@@ -1,9 +1,6 @@
 ---
 layout: page
 title: Climate Change The Need to Act Now
-edit: true
-redirect_from:
-  - /climate-action-us-senate-2014/
 ---
 
 * **Original PDF** - [Original PDF](https://www.gpo.gov/fdsys/pkg/CHRG-113shrg98181/pdf/CHRG-113shrg98181.pdf)
