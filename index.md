@@ -3,7 +3,7 @@ layout: page
 title: Climate Change The Need to Act Now
 edit: true
 redirect_from:
-  - /uk-parliament-iraq-inquiry/
+  - /climate-action-us-senate-2014/
 ---
 
 * **Original PDF** - [Original PDF](https://www.gpo.gov/fdsys/pkg/CHRG-113shrg98181/pdf/CHRG-113shrg98181.pdf)
@@ -52,4 +52,4 @@ The Senate Climate Change Hearings Website can be found at: [http://www.epw.sena
 
 ## License
 
-Original material was [licensed under the terms of the Open Government Licence v3.0](http://nationalarchives.gov.uk/doc/open-government-licence/version/3/)
+Original material is "a work prepared by an officer or employee" of the federal government and so, under [section 105 of the Copyright Act](https://www.law.cornell.edu/uscode/text/17/105), is in the public domain.
