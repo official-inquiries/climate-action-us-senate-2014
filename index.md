@@ -11,7 +11,7 @@ This is a report of US Senate Hearings from 2014 that covered the need for actio
 
 ## Opening Remarks:
   * [Introduction](/iraq-inquiry/pages/vol-1-introduction)
-  * [Whitehouse, Hon. Sheldon, U.S. Senator from the State of Rhode Island](/pages/opening-whitehouse)
+  * [Whitehouse, Hon. Sheldon, U.S. Senator from the State of Rhode Island](climate-action-us-senate-2014/pages/opening-whitehouse)
   * [Vitter, Hon. David, U.S. Senator from the State of Louisiana](/pages/opening-vitter)
   * [Barrasso, Hon. John U.S. Senator from the State of Wyoming](/pages/opening-barasso)
   * [Boxer, Hon. Barbara, U.S. Senator from the State of California](/pages/opening-boxer)  
