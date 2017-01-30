@@ -3,9 +3,9 @@ layout: page
 title: Climate Change - The Need to Act Now
 ---
 
-## Summary
-
 This is a report of US Senate Hearings from 2014 that covered the need for action on climate change. Three former directors of Environmental Protection Agency, each of whom served under Republican Presidents, expressed their belief that the US urgently needed to act on to reduce greenhouse gas emissions. The severity of the problem, and the legality the Environmental Protection Agency's efforts to regulate Carbon Emissions were disputed. The economic impacts of regulation and the need for nuclear power also received much discussion.
+
+## TABLE OF CONTENTS
 
 ## [Original PDF](https://www.gpo.gov/fdsys/pkg/CHRG-113shrg98181/pdf/CHRG-113shrg98181.pdf)
 
