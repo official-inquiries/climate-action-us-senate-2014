@@ -358,6 +358,7 @@ energy. But in New Jersey we get nearly 50% of our electricity from nuclear. As 
 of the solution towards significant emissions reductions?
 
 Yes
+
 Questions from:
 
 Senator David Vitter
@@ -848,5 +849,5 @@ significant as well.
 Environmental Protection Agency. Do you agree with the Court‘s decision?
 
 While I have read press reports of the decision, I have not reviewed the court’s ruling in
-depth. it was a fractured and complicated decision, but i was encouraged that the Court
+depth. It was a fractured and complicated decision, but I was encouraged that the Court
 largely upheld the ability of the EPA to regulate greenhouse emissions.

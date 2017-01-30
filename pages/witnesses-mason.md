@@ -11,10 +11,11 @@ Page 186
 
 Senator WHITEHOUSE. Now, finally, we have Dr. Mason. Please 
 proceed, sir. 
-STATEMENT OF JOSEPH R. MASON, HERMANN MOYSE, JR./ 
-LOUISIANA BANKERS ASSOCIATION ENDOWED PROFESSOR 
-OF BANKING, LOUISIANA STATE UNIVERSITY AND SENIOR 
-FELLOW, THE WHARTON SCHOOL 
+
+## STATEMENT OF JOSEPH R. MASON, HERMANN MOYSE, JR./ 
+## LOUISIANA BANKERS ASSOCIATION ENDOWED PROFESSOR 
+## OF BANKING, LOUISIANA STATE UNIVERSITY AND SENIOR 
+## FELLOW, THE WHARTON SCHOOL 
 
 Mr. MASON. Good morning and thank you for inviting me to tes-
 tify here today on this crucially important topic. 
@@ -124,7 +125,7 @@ VerDate Aug 31 2005 10:54 Feb 25, 2016 Jkt 000000 PO 00000 Frm 00193 Fmt 6633 Sf
 
 Page 188
 
-Testimony of Joseph R. Mason
+## Testimony of Joseph R. Mason
 
 Hermann Moyse, Jr./Louisiana Bankers Association Professor of finance,
 Louisiana State University and Senior Fellow, The Wharton School
@@ -171,7 +172,7 @@ A. Investor Fraud …………………………………………10
    
 
 B. Corporate Fraud
-C. Permit Fraud ............ ...l4
+3C. Permit Fraud ............ ...l4
 
 1. Counterfeiting ............................ l4
 

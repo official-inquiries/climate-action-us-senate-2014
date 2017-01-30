@@ -4,8 +4,6 @@ title: Witnesses -- Botkin, Daniel
 edit: true
 ---
 
-* TOC
-{:toc}
 
 133 
 
@@ -15,8 +13,8 @@ your service to our Country in a challenging office over many years
 and for your testimony today. 
 We now turn now to Dr. Botkin. 
 
-STATEMENT OF DANIEL BOTKIN, PROFESSOR EMERITUS OF 
-BIOLOGY, UNIVERSITY OF CALIFORNIA, SANTA BARBARA 
+## STATEMENT OF DANIEL BOTKIN, PROFESSOR EMERITUS OF 
+## BIOLOGY, UNIVERSITY OF CALIFORNIA, SANTA BARBARA 
 
 Mr. BOTKIN. Thank, Mr. Chairman. 
 
@@ -152,9 +150,9 @@ VerDate Aug 31 2005 10:54 Feb 25, 2016 Jkt 000000 PO 00000 Frm 00141 Fmt 6633 Sf
 
 Page 136
 
-Testimony of DANIEL B. BOTKIN
-Before the United States Senate Subcommittee on Clean Air and Nuclear Safety
-“Climate Change: The Need to Act Now."
+## Testimony of DANIEL B. BOTKIN
+## Before the United States Senate Subcommittee on Clean Air and Nuclear Safety
+## “Climate Change: The Need to Act Now."
 June 18, 2014 at 10:00 A.M.
 
 Since 1968, I have published research on theoretical global warming, its potential ecological
@@ -426,7 +424,7 @@ Page 145
 c. "it is inappropriate to use short-term changes in weather as an indication one way or
 another about persistent climate change."
 
-WHAT HAS GONE WRONG AND HOW TO fiX IT
+## WHAT HAS GONE WRONG AND HOW TO fiX IT
 
 1. Rather than focus on key, specific and tractable aspects of climate-change science, the
 long-term approach throughout the 20th century was to try to create de nova a
@@ -562,9 +560,9 @@ Beginning in 1975, Jerry Melillo and I worked at the Ecosystems Center, Marine B
 Laboratory, Woods Hole, MA, and we published four scientific papers together, listed at the end
 of this document.1
 
-COMMENTS ON THE ASSESSMENT
+## COMMENTS ON THE ASSESSMENT
 
-GENERAL COMMENTS:
+## GENERAL COMMENTS:
 
 The opening statement of the Assessment (p. 1), reproduced here, is characteristic of the entire
 Assessment in that it violates one of the basic principles of good climatology ——— never use short—
@@ -746,7 +744,7 @@ the Assessment.
 The numbers following each of the Assessment’s entry are the citation number as listed in the
 Assessment. The Assessment‘s statements are in italics; my comments appear in plain font.)
 
-ASSESSMENT IS WRONG
+## ASSESSMENT IS WRONG
 
 1. 21. Seedling survival of nearly 20 resident and migrant tree species decreased during
 years of lower rainfall in the Southern Appalachians and the Piedmont areas, indicating
@@ -857,7 +855,7 @@ species have persisted in situ at individual sites since the last glacial maximu
 to sites with different aspects, slopes, elevations. and other attributes as the environment
 changed. Migrations of100 to 1000 km are well documented for many species
 
-IMPROVEMENTS
+## IMPROVEMENTS
 
 1. 2. Northern flickers arrived at breeding sites earlier in the Northwest in response to
 temperature changes along migration routes, and egg laying advanced by 1.15 days for
@@ -919,11 +917,11 @@ elevation-related vegetation patterns in this region.139
 altered their elevation ranges, with lower-elevation species expanding their ranges and
 higher»elevation species contracting their ranges. 120
 
-DECLINES
+## DECLINES
 
 None.
 
-PREDICTED FROM CLIMATE MODELS, THEREFORE NOT FACT
+## PREDICTED FROM CLIMATE MODELS, THEREFORE NOT FACT
 
 1. 30. Sea level is predicted to rise by 1.6 to 3.3 feet in Hawaiian waters by 2100. consistent
 with global projections of l to 4 feet of sea level rise (sec Ch. 2: Our Changing Climate.
@@ -944,7 +942,7 @@ increase at higher latitudes due to changes in temperatures and sea ice, with co
 loss of optimal habitat for as many as 1 1 species by midcentury; seal populations living
 in tropical and temperate waters are particularly at risk to future declines.132
 
-UNLIKELY CORRELATION 0R UNSUPPORTED STATEMENT
+## UNLIKELY CORRELATION 0R UNSUPPORTED STATEMENT
 
 1. 13. (a and b) Climatic fluctuations were found to influence mate selection and increase
 the probability of infidelity in birds that are normally socially monogamous, increasing
@@ -1112,7 +1110,7 @@ carbon storage and uptake by as much as 300%. 16 Therefore this is an unreliable
 As I stated at above, these are representative examples of problems that exist throughout the
 Climate Change Assessment.
 
-NOTES For the White House Climate Change Assessment
+## NOTES For the White House Climate Change Assessment
 
 1. Publications by myself and J. M. Melillo: Aber, J.S., D.B. Botkin and J.M. Melillo, 1978,
 Predicting the effects of different harvesting regimes on forest floor dynamics in northern
@@ -1195,7 +1193,7 @@ published in Drewno (Wood) Journal.
 
 Page 163
 
-Responses by Daniel Botkin to Additional Questions
+## Responses by Daniel Botkin to Additional Questions
 
 Environment and Public Works Committee Hearing June 18, 2014
 Follow-up Questions for Written Submission
@@ -1478,7 +1476,7 @@ V. Alaric and R. Patrick Bixler (eds). Forest Conservation and Management in
 the Anthropocene. General Technical Report. Fort Collins, CO: US Department
 of Agriculture, Forest Service. Rocky Mountain Research Station.
 
-Questions for Botkin Questions from: Senator David Vitter
+## Questions for Botkin Questions from: Senator David Vitter
 
 1.
 
@@ -1507,7 +1505,7 @@ process responsive to reviewer comments?
 No, to my knowledge neither process was responsive to any of my comments as
 a reviewer.
 
-Questions from: Senator Jeff Sessions
+## Questions from: Senator Jeff Sessions
 
 1. Your testimony did an excellent job of highlighting the risks of reliance
 upon the IPCC 2014 Assessment and the National Climate Change Assessment

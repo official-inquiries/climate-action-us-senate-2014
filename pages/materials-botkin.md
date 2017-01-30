@@ -9,7 +9,7 @@ edit: true
 
 Page 278
 
-Responses by Daniel Botkin to Additional Questions
+## Responses by Daniel Botkin to Additional Questions
 
 Environment and Public Works Committee Hearing June 18, 2014
 Follow-up Questions for Written Submission
@@ -30,7 +30,7 @@ political party (I vote as an independent). My doctorate is in biology (Rutgers 
 possible ecological effects. I would like to put into the record a list of my scientific
 publications that have dealt with many aspects of this topic, as follows:
 
-DANIEL B. BOTKIN GLOBAL WARMING RELATED BOOKS AND ARTICLES
+## DANIEL B. BOTKIN GLOBAL WARMING RELATED BOOKS AND ARTICLES
 
 Books
 1. West, D.C., HH. Shugart and DB. Botkin (eds), 1981, Forest Success/on:

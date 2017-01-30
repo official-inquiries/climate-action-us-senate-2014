@@ -81,8 +81,6 @@ acidification on Puget Sound which directly threatened the shell-
 fish industry in Puget Sound that contributes $275 million a year 
 to the State’s economy. 
 
-VerDate Aug 31 2005 10:54 Feb 25, 2016 Jkt 000000 PO 00000 Frm 00054 Fmt 6633 Sfmt 6633 S:\_EPW\DOCS\98181.TXT VERN
-
 Page 49 
 
 To find out what the nature of the problem was and taking steps 
@@ -103,8 +101,6 @@ This is an extremely complex problem whose solutions are not
 straightforward. We believe this is no excuse for the complacency 
 or not stepping up to our responsibility. 
 [The prepared statement of Mr. Ruckelshaus follows:] 
-
-VerDate Aug 31 2005 10:54 Feb 25, 2016 Jkt 000000 PO 00000 Frm 00055 Fmt 6633 Sfmt 6633 S:\_EPW\DOCS\98181.TXT VERN
 
 Page 50
 
@@ -164,16 +160,16 @@ In my experience when major regulations have been proposed, those opposed to the
 costs of compliance, economic and social, should they be implemented. The
 motivation to emphasize and perhaps to exaggerate those costs, is natural.
 
-It is also my experience that when such regulations become final after hearings and extensive comment
-n tin-out. the motivation of those affected focus on driving down the costs of compliance
-through new technologies and other means
+It is also my experience that when such regulations become final after hearings and extensive comment,
+the motivation of those affected focus on driving down the costs of compliance
+through new technologies and other means.
 
 I cannot recall any situation in my tenures when predictions of catastrophic costs
 as a result of a regulation ever materialized. 
 
 Senator Jeff Sessions:
 
-1. What do you think should be the role of unclear potter in America’s generating mix?
+1. What do you think should be the role of nuclear power in America’s generating mix?
 
 Nuclear power with its improvement in safely and reduction in costs should play an important role in developing an American Energy policy for the future.
 
@@ -219,7 +215,7 @@ Page 56
 
 stabilize the climate without nuclear power, in the real world there is no credible path to climate stabilization that does not include a substantial role for nuclear power.” Do you agree with the authors of this statement?
 
-I agree that in a future low-carbon economy, nuclear power will play an important role. This is especially true given the current absence of storage technology that would address concerns about renewable power generation. 1 note, again, however, that the absence of any comprehensive national energy policy makes achieving our future energy goals more difficult and more expensive.
+I agree that in a future low-carbon economy, nuclear power will play an important role. This is especially true given the current absence of storage technology that would address concerns about renewable power generation. I note, again, however, that the absence of any comprehensive national energy policy makes achieving our future energy goals more difficult and more expensive.
 
 6. According to Ted Nordhaus and Michael Schellenberger of the Breakthrough Institute, “Whatever their merits as innovation policy, Germany’s enormous solar investments have had little discernible impact on carbon emissions. Germany’s move away from baseload zero~carbon nuclear has resulted in higher coal consumption since 2009. In 2012. Germany’s carbon emissions rose 2 percent. Do you agree with this statement? Do you believe the U.S. should deploy more nuclear instead of relying on renewables to provide baseload power?
 
@@ -299,7 +295,7 @@ New Oxford Dictionary defines photosynthesis as the following:
 
 The process by which green plants and some other organisms use Sunlight to synthesize foods from carbon dioxide and water.
 
-21.How many parts per million (ppm) do humans inhale of C02 when they breathe? How many ppm do humans exhale when they breathe?
+21. How many parts per million (ppm) do humans inhale of C02 when they breathe? How many ppm do humans exhale when they breathe?
 
 I have no data on this question.
 
@@ -309,12 +305,12 @@ I have no data on this question
 
 23. It has been claimed about you that “it was, of course, then-Environmental Protection Agency administrator William Ruckelshaus who actually banned DDT after ignoring an EPA administrative law judge’s ruling that there was no evidence indicating that DDT posed any sort of threat to human health or the environment. Ruckelshaus never attended any of the agency‘s hearings on DDT. He didn’t read the hearing transcripts and refused to explain his decision.
 
-None of this is surprising given that, in a May 22, 1971 speech before the Wisconsin Audubon Society, Ruckelshaus said that EPA procedures had been streamlined so that DDT could be banned. Ruekelshaus was also a member of — and wrote
+None of this is surprising given that, in a May 22, 1971 speech before the Wisconsin Audubon Society, Ruckelshaus said that EPA procedures had been streamlined so that DDT could be banned. Ruckelshaus was also a member of — and wrote a
 fundraising letter for — the EDF”.
 
 Please explain which if any of the above statements you disagree with and why.
 
-(See attachment i) In that decision. as stated, I specifically weighed the risks of the continued use of DDT against the benefits. That‘s what the statue directed me to do. The opinion speaks for itself on this subject. In writing the decision I made extensive use of the transcripts of the earlier hearing before the administrative law judge. I was, in effect,
+(See attachment i) In that decision. as stated, I specifically weighed the risks of the continued use of DDT against the benefits. That‘s what the statute directed me to do. The opinion speaks for itself on this subject. In writing the decision I made extensive use of the transcripts of the earlier hearingss before the administrative law judge. I was, in effect,
 
 Page 60
 
@@ -333,9 +329,9 @@ Whether this creates legal liability depends on the facts surrounding the claim.
 
 25. Please explain if you disagree with any of these statements and why:
 
-“finally. there is the question of the World Health Organization itself. What’s the WHO been doing for all these years? There are no new facts on DDT ~— all the relevant science about DDT safety has been available since the 1960s. Moreover, the WHO’S strategy of mosquito bed nets and malaria vaccine development has been a dismal failure. While the death toll in malarial regions has mounted, the WHO has been distracted by such dubious issues as whether cell phones and French fries cause cancer. It‘s a relief that the WHO has finally come to its senses, but on the other hand, the organization has done too little, too late. The ranks of the WHO’S leadership need to be purged of those who place the agenda of environmental elitists over the basic survival of the world’s needy.”
+“Finally, there is the question of the World Health Organization itself. What’s the WHO been doing for all these years? There are no new facts on DDT ~— all the relevant science about DDT safety has been available since the 1960s. Moreover, the WHO’S strategy of mosquito bed nets and malaria vaccine development has been a dismal failure. While the death toll in malarial regions has mounted, the WHO has been distracted by such dubious issues as whether cell phones and French fries cause cancer. It‘s a relief that the WHO has finally come to its senses, but on the other hand, the organization has done too little, too late. The ranks of the WHO’S leadership need to be purged of those who place the agenda of environmental elitists over the basic survival of the world’s needy.”
 
-i am not familiar with the operations of the WHO so I can’t help you on this question.
+I am not familiar with the operations of the WHO so I can’t help you on this question.
 
 Page 61
 
@@ -1279,7 +1275,7 @@ l. DDT formulations when labeled with directions for use in the production of th
 for use on bats, mice and fabric are "misbranded," within the meaning of Sections 2(z)(2) (c), (d) and (e) of fiFRA, 7
 U.S.C. § 135.
 
-2. DD’I‘ when labeled with directions "for use by and distribution to only U.S. Public Health Service officials or for
+2. DDT when labeled with directions "for use by and distribution to only U.S. Public Health Service officials or for
 distribution by or on approval by the U.S. Public Health Service to other health service officials for control of vector
 diseases, for use by and distribution to the Public Health Service, USDA, and military for quarantine use; for use in
 prescription drugs to be dispensed only on [‘59] authorization by a certified medical doctor" along with the caution

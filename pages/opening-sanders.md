@@ -1,14 +1,11 @@
 ---
 layout: page
 title: Opening Statements -- Sanders, Hon. Bernard, U.S. Senator from the State of Vermont
-edit: true
+
 ---
 
-* TOC
-{:toc}
-
-OPENING STATEMENT OF HON. BERNARD SANDERS, 
-U.S. SENATOR FROM THE STATE OF VERMONT 
+## OPENING STATEMENT OF HON. BERNARD SANDERS, 
+## U.S. SENATOR FROM THE STATE OF VERMONT 
 
 Senator SANDERS. Thank you very much, Mr. Chairman. Thank 
 you for your tireless efforts on this issue and for organizing this 

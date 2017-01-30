@@ -1,16 +1,11 @@
 ---
 layout: page
 title: Opening Statements -- Boozman, Hon. John, U.S. Senator from the State of Arkansas
-edit: true
 ---
-
-* TOC
-{:toc}
 
 Page 39 
 
-OPENING STATEMENT OF HON. JOHN BOOZMAN, 
-U.S. SENATOR FROM THE STATE OF ARKANSAS 
+## OPENING STATEMENT OF HON. JOHN BOOZMAN, U.S. SENATOR FROM THE STATE OF ARKANSAS 
 
 Senator BOOZMAN. Thank you very much, Mr. Chairman. 
 It is good to see the miners here. It is important that you are 

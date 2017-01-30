@@ -1,14 +1,9 @@
 ---
 layout: page
 title: Opening Statements -- Barrasso, Hon. John U.S. Senator from the State of Wyoming
-edit: true
 ---
 
-* TOC
-{:toc}
-
-OPENING STATEMENT OF HON. JOHN BARRASSO, 
-U.S. SENATOR FROM THE STATE OF WYOMING 
+## OPENING STATEMENT OF HON. JOHN BARRASSO, U.S. SENATOR FROM THE STATE OF WYOMING 
 
 Senator BARRASSO. Thank you very much, Mr. Chairman. 
 As you know, I am from Wyoming, the most beautiful State in 
@@ -32,8 +27,6 @@ ica’s global competitiveness.
 Higher energy costs will hurt low income families and fixed in-
 come seniors the most, leaving them with less to spend on food, 
 housing, health care and other basic necessities. The thousands of 
-
-VerDate Aug 31 2005 10:54 Feb 25, 2016 Jkt 000000 PO 00000 Frm 00024 Fmt 6633 Sfmt 6633 S:\_EPW\DOCS\98181.TXT VERN
 
 Page 19 
 
@@ -98,8 +91,6 @@ doesn’t reduce global temperatures or prevent any of the serious
 impacts predicted by the U.N. or the EPA. It can’t even make a 
 dent, all the while seniors on fixed incomes, families and children 
 suffer high electricity bills, joblessness and poor health. 
-
-VerDate Aug 31 2005 10:54 Feb 25, 2016 Jkt 000000 PO 00000 Frm 00025 Fmt 6633 Sfmt 6633 S:\_EPW\DOCS\98181.TXT VERN
 
 Page 20 
 

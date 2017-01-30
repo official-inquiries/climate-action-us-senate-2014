@@ -4,9 +4,6 @@ title: Witnesses
 edit: true
 ---
 
-* TOC
-{:toc}
-
 We now have the opportunity to hear from our wonderful panel. 
 I will introduce the panel as a group right now and then we will 
 go from witness to witness. 

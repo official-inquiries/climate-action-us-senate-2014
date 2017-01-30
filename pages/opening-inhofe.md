@@ -1,14 +1,10 @@
 ---
 layout: page
 title: Opening Statements -- Inhofe, Hon. James U.S. Senator from the State of Oklahoma
-edit: true
 ---
 
-* TOC
-{:toc}
-
-OPENING STATEMENT OF HON. JAMES INHOFE, 
-U.S. SENATOR FROM THE STATE OF OKLAHOMA 
+## OPENING STATEMENT OF HON. JAMES INHOFE, 
+## U.S. SENATOR FROM THE STATE OF OKLAHOMA 
 
 Senator INHOFE. Thank you, Mr. Chairman. Thank you for hold-
 ing the hearing. 

@@ -1,16 +1,13 @@
 ---
 layout: page
 title: Opening Statements -- Boxer, Hon. Barbara, U.S. Senator from the State of Rhode Island
-edit: true
 ---
-
-* TOC
-{:toc}
 
 Page 13 
 
-OPENING STATEMENT OF HON. BARBARA BOXER, 
-U.S. SENATOR FROM THE STATE OF CALIFORNIA 
+## OPENING STATEMENT OF HON. BARBARA BOXER, 
+## U.S. SENATOR FROM THE STATE OF CALIFORNIA 
+
 Senator BOXER. Thank you, Senator. 
 
 Thanks to your work, we are joined by an extraordinary panel. 
@@ -84,17 +81,9 @@ your permission.
 
 VerDate Aug 31 2005 10:54 Feb 25, 2016 Jkt 000000 PO 00000 Frm 00020 Fmt 6633 Sfmt 6633 S:\_EPW\DOCS\98181.TXT VERN
 
-Page 15
 
-<See Original Document for Annual Coal Report (Figures)> 
+[Page 15 - 17 Energy Information Administration Coal Report](pages/opening-boxer-coal-report.tiff)
 
-Page 17
-
-<See Original Document for Annual Coal Report (Figures)>  
-
-Page 17
-
-<See Original Document for Annual Coal Report (Figures)> 
 Page 18 
 
 Senator BOXER. I also want to say that I lived through all this 

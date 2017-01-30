@@ -1,15 +1,12 @@
 ---
 layout: page
 title: Opening Statements -- Cardin, Hon. Benjamin, U.S. Senator from the State of Maryland
-edit: true
 ---
 
-* TOC
-{:toc}
-
 We turn now to Senator Cardin. 
-OPENING STATEMENT OF HON. BENJAMIN CARDIN, 
-U.S. SENATOR FROM THE STATE OF MARYLAND 
+
+## OPENING STATEMENT OF HON. BENJAMIN CARDIN, 
+## U.S. SENATOR FROM THE STATE OF MARYLAND 
 
 Senator CARDIN. Thank you, Senator Whitehouse. I thank you for 
 your extraordinary leadership on this issue. You have been incred-

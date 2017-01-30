@@ -1,16 +1,12 @@
 ---
 layout: page
 title: Opening Statements -- Vitter, Hon. David, U.S. Senator from the State of Rhode Island
-edit: true
 ---
-
-* TOC
-{:toc}
 
 Page 12
 
-OPENING STATEMENT OF HON. DAVID VITTER, 
-U.S. SENATOR FROM THE STATE OF LOUISIANA 
+## OPENING STATEMENT OF HON. DAVID VITTER, 
+## U.S. SENATOR FROM THE STATE OF LOUISIANA 
 
 I look forward to hearing from all of our witnesses here today, 
 certainly including Dr. Daniel Botkin, Dr. Joseph Mason and Hon. 

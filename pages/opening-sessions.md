@@ -1,14 +1,10 @@
 ---
 layout: page
 title: Opening Statements -- Sessions Hon. Jeff, U.S. Senator from the state of Alabama
-edit: true
 ---
 
-* TOC
-{:toc}
-
-OPENING STATEMENT OF HON. JEFF SESSIONS, 
-U.S. SENATOR FROM THE STATE OF ALABAMA 
+## OPENING STATEMENT OF HON. JEFF SESSIONS, 
+## U.S. SENATOR FROM THE STATE OF ALABAMA 
 
 Senator SESSIONS. Thank you, Senator Whitehouse. 
 I know these are important issues to you and you have spent a 

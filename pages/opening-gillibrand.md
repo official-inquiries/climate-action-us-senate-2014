@@ -1,14 +1,13 @@
 ---
 layout: page
 title: Opening Statements -- Gillibrand, Hon. Kirsten, U.S. Senator from the State of New York
-edit: true
+
 ---
 
-* TOC
-{:toc}
 
-OPENING STATEMENT OF HON. KIRSTEN GILLIBRAND, 
-U.S. SENATOR FROM THE STATE OF NEW YORK 
+## OPENING STATEMENT OF HON. KIRSTEN GILLIBRAND, 
+## U.S. SENATOR FROM THE STATE OF NEW YORK 
+
 Senator GILLIBRAND. Thank you, Senator Whitehouse, 
 for chairing this hearing today on the need to act on climate change 
 and for your leadership in the Senate to continue to raise the ur-
