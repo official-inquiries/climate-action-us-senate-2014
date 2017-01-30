@@ -21,6 +21,7 @@ This is a report of US Senate Hearings from 2014 that covered the need for actio
   * [Gillibrand, Hon. Kirsten, U.S. Senator from the State of New York](/pages/opening-gillibrand)
   * [Sessions Hon. Jeff, U.S. Senator from the state of Alabama](/pages/opening-sessions)
   * [Booker, Hon. Corey, U.S. Senator from the State of New Jersey](/pages/opening-inhofe)
+
 ## Witnesses
   * [Ruckelshaus, William D., Strategic Advisor, Madrona Venture Group and Former Administrator, U.S. Environmental Protection Agency](/pages/witnesses-ruckelshaus)
   * [Whitman, Christine Todd, President, The Whitman Strategy Group; Former Governor, State of New Jersey; and Former Administrator, U.S. Environmental Protection Agency](/pages/witnesses-whitman)
@@ -30,7 +31,7 @@ This is a report of US Senate Hearings from 2014 that covered the need for actio
   * [Strange, Hon. Luther, Attorney General, State of Alabama](/pages/witnesses-strange)
   * [Joseph, Mason, R., Hermann Moyse, Jr./Louisiana Bankers Association Endowed Professor of Banking, Louisiana State University and Senior Fellow, The Wharton School](/pages/witnesses-mason)
 
-## Additional Materials**
+## Additional Materials
   * [William J. Haun; The Clean Air Act as an Obstacle to the Environmental Protection Agency’s Anticipated Attempt to Regulate Greenhuse Gas Emissions from Existing Power Plants](/pages/materials-haun)
   * [Paul C. Knappenberger and Patrick J. Michaels; Global Science Report](/pages/materials-knappenberger-epa-math)
   * [Reporting on Chinese Carbon Caps](/pages/materials-chinese-carbon-cap)
