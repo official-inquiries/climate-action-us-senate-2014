@@ -4,13 +4,12 @@ title: Opening Statements -- Whitehouse, Hon. Sheldon, U.S. Senator from the Sta
 ---
 
 Page 1
+
 ## CLIMATE CHANGE: THE NEED TO ACT NOW 
 
 Wednesday, June 18, 2014 
 
-## U.S. SENATE, COMMITTEE ON ENVIRONMENT AND PUBLIC WORKS, 
-## SUBCOMMITTEE ON CLEAN AIR AND NUCLEAR SAFETY, 
-## Washington, DC. 
+## U.S. SENATE, COMMITTEE ON ENVIRONMENT AND PUBLIC WORKS, SUBCOMMITTEE ON CLEAN AIR AND NUCLEAR SAFETY, Washington, DC. 
 
 The subcommittee met, pursuant to notice, at 10 a.m. in room 
 406, Dirksen Senate Building, Hon. Sheldon Whitehouse (chairman 
@@ -19,8 +18,7 @@ Present: Senators Whitehouse, Cardin, Sanders, Markey,
 Gillibrand, Booker, Sessions, Barrasso, Crapo, Boozman, Inhofe 
 and Vitter. 
 
-## OPENING STATEMENT OF HON. SHELDON WHITEHOUSE, 
-## U.S. SENATOR FROM THE STATE OF RHODE ISLAND 
+## OPENING STATEMENT OF HON. SHELDON WHITEHOUSE, U.S. SENATOR FROM THE STATE OF RHODE ISLAND 
 
 Senator WHITEHOUSE. The hearing of the EPW Subcommittee on 
 Clean Air and Nuclear Safety will come to order. 
@@ -106,14 +104,14 @@ VerDate Aug 31 2005 10:54 Feb 25, 2016 Jkt 000000 PO 00000 Frm 00010 Fmt 6633 Sf
 
 Page 5
 
-BICEP (BUSlNESS for INNOVATIVE CLIMATE 81 ENERGY POLICY)
+BICEP (BUSlNESS for INNOVATIVE CLIMATE ENERGY POLICY)
 a Project of Ceres
 
   
 
 June 2. 2014
 
-President Barack ()bama
+President Barack Obama
 
 The White House
 
@@ -142,7 +140,7 @@ administration for its commitment to tackling climate change and we encourage yo
 Thank you for your leadership.
 Sincerely,
 
-The Adidas Group		`			Portland, OR
+The Adidas Group					Portland, OR
 Adventure Safety International		Sandy, UT
 Akamai Technologies					Cambridge, MA
 Amicus Green Building Center, LLC	Kensington, MD
@@ -293,7 +291,7 @@ Zaurie Zimmerman Associates, Inc.	Lexington, MA
 
 Page 9
 
-Senate Minority Leader Mitch McConnell
+cc: Senate Minority Leader Mitch McConnell
 Speaker of the House John Boehner
 House Minority Leader Nancy Pelosi
 
@@ -424,15 +422,13 @@ into the shores of Rhode Island on seas that are ten inches higher? [Hurricane 1
 photo]. Louisiana is losing a football field of wetlands every hour due in part to sea 
 level rise. According to measurements at NOAA’s Dauphin Island station, sea level 
 has risen approximately five inches along the Alabama coast between 1966 and 
-2006. In addition to eroding the coastline, that’s five more inches of ocean that bat-
-ter Mobile Bay during storms. And then there is Florida, ground zero for climate 
+2006. In addition to eroding the coastline, that’s five more inches of ocean that batter Mobile Bay during storms. And then there is Florida, ground zero for climate 
 change. In October 2012, streets and homes in Hendrick’s Isle, FL, were flooded— 
 but not because of a storm. It all happened on a beautiful sunny day. It was just 
 extreme high tides, pushed into the town by sea-level rise. 
 
 Climate change is a challenge that can and must be solved. Again I thank the 
-witnesses for joining us. The committee has much to learn from the collective expe-
-rience of the four former administrators as we address this urgent threat. 
+witnesses for joining us. The committee has much to learn from the collective experience of the four former administrators as we address this urgent threat. 
 
 Senator WHITEHOUSE. I went over by a minute so Senator Vitter 
 will have an extra minute. 
